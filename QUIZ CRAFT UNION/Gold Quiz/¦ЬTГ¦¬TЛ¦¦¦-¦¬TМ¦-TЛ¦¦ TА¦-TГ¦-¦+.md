@@ -1,0 +1,5 @@
+- [x] Все идет по плану (VesperCellos)
+- [x] Tunderstuck (на каягыме) 
+- [x] Прыгну со скалы (Even Blurry Videos) 
+- [ ] Город, которого нет (Deai) 
+- [ ] Режиссер (Garri Pat)
