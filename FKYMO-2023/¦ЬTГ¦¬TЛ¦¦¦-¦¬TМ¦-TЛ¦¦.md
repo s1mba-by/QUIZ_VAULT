@@ -1,6 +1,0 @@
-- [ ] Крылатые качели (Deai)
-- [ ] Tunderstuck (на каягыме)   
-- [ ] Камнем по голове (Even Blurry) 
-- [ ] Всё идёт по плану (Vespercellos) 
-- [ ] Мой рок-н-ролл (Eiro Nareth)  
-- [ ] Лирика (Even Blurry)
