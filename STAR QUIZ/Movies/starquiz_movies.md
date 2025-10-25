@@ -1,4 +1,4 @@
-#starquiz #pictures
+#starquiz #movies
 
 Узнать фильм по одному кадру
 1. Звездный путь
