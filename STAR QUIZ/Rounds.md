@@ -1,4 +1,4 @@
-#startquiz #rounds
+#starquiz #rounds
 - [ ] фильм по саундтреку
 - текст
 	- [x] чгк 
