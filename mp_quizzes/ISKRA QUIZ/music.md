@@ -9,4 +9,7 @@ __Музыкальный раунд__
 1. Маksim - Не отдам - Цой
 2. Evanescence - Bring me to life - Linkin Park
 3. Anna Asti - Царица - Metallica
+4. Бонд с кнопкой - Кухни - Летов
+5. Комната культуры - Поезда - Сплин
+6. 
 
