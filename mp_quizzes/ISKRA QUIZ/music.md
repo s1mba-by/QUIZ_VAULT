@@ -8,4 +8,5 @@ __Музыкальный раунд__
 ## Ответы
 1. Маksim - Не отдам - Цой
 2. Evanescence - Bring me to life - Linkin Park
+3. Anna Asti - Царица - Metallica
 
