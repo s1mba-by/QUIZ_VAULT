@@ -7,8 +7,8 @@ __Музыкальный раунд__
 
 ## Ответы
 1. [Маksim - Не отдам - Цой](https://www.youtube.com/watch?v=HlK6sgAazqQ&list=RDHlK6sgAazqQ&start_radio=1)
-2. Evanescence - Bring me to life - Linkin Park
-3. Anna Asti - Царица - Metallica
+2. [Evanescence - Bring me to life - Linkin Park](https://www.youtube.com/watch?v=UyoPtpWBXi0&list=RDUyoPtpWBXi0&start_radio=1)
+3. [Anna Asti - Царица - Metallica](https://www.youtube.com/watch?v=GriBtVqYxJc&list=RDGriBtVqYxJc&start_radio=1)
 4. Бонд с кнопкой - Кухни - Летов
 5. Комната культуры - Поезда - Сплин
 6. Animal Джаzz - Три полоски - Курт Кобейн
