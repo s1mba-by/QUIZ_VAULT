@@ -6,7 +6,7 @@ __Музыкальный раунд__
 Узнать? кому пыталась подражать нейронка по каверу
 
 ## Ответы
-1. Маksim - Не отдам - Цой - 
+1. [Маksim - Не отдам - Цой](https://www.youtube.com/watch?v=HlK6sgAazqQ&list=RDHlK6sgAazqQ&start_radio=1)
 2. Evanescence - Bring me to life - Linkin Park
 3. Anna Asti - Царица - Metallica
 4. Бонд с кнопкой - Кухни - Летов
